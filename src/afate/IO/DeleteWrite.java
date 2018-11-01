@@ -1,4 +1,4 @@
-package afate;
+package afate.IO;
 
 
 import java.io.BufferedWriter;
@@ -17,13 +17,14 @@ public class DeleteWrite {
 
     public void deleteFiles(String kushti) throws IOException {
         File[] listRoot = root.listFiles();
-        for (File f : listRoot) {
-            if (f.isDirectory()) {
-                root = new File(f.getAbsolutePath());
+        for (int i = 0; i < listRoot.length; i++) {
+            System.out.println(listRoot[i]);
+            if (listRoot[i].isDirectory()) {
+                root = new File(listRoot[i].getAbsolutePath());
                 deleteFiles(kushti);
-            } else if (f.isFile()) {
-                if (f.getName().startsWith(kushti)) {
-                    f.delete();
+            } else if (listRoot[i].isFile()) {
+                if (listRoot[i].getName().startsWith(kushti)) {
+                    listRoot[i].delete();
                     count++;
                 }
             }
