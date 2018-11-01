@@ -1,4 +1,4 @@
-package afate.allinone;
+package afate.allinone.artikuli;
 
 public class Ushqimi extends Artikulli {
 

@@ -1,4 +1,4 @@
-package afate.allinone;
+package afate.allinone.artikuli;
 
 public class Util {
     public static boolean isEmpty(String s) {
