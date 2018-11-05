@@ -1,33 +1,35 @@
 package afate.allinone.detyrateshtepise.Artikulli;
 
-public class TV extends Artikulli implements Klasifikohet {
+public class TV extends Artikulli implements Klasifikohet{
+    private boolean isSmart;
 
-    private boolean hasSurround;
-
-    public TV(String barkodi, String emertimi, int cmimi, boolean hasSurround) throws ArtikulliException {
+    public TV(int barkodi, String emertimi, double cmimi, boolean isSmart) throws BlerjaException {
         super(barkodi, emertimi, cmimi);
-        this.hasSurround = hasSurround;
+        this.isSmart = isSmart;
+    }
+
+    public boolean isSmart() {
+        return isSmart;
+    }
+
+    public void isSmart(boolean isSmart) {
+        this.isSmart = isSmart;
     }
 
     @Override
-    public boolean montohet() {
+    public boolean montohet(){
         return false;
     }
 
     @Override
-    public String getKlasifikimi() {
+    public String getKlasifikimi(){
         return "Pajisje Elektrike";
     }
 
-    public boolean isHasSurround() {
-        return hasSurround;
+    @Override
+    public String toString(){
+        return (isSmart ? "Smart " : "Not Smart ")+"TV "+super.toString();
     }
 
-    public void setHasSurround(boolean hasSurround) {
-        this.hasSurround = hasSurround;
-    }
 
-    public String toString() {
-        return "DVD Player " + super.toString() + (isHasSurround() ? ("Me Surround") : "Pa Surround");
-    }
 }

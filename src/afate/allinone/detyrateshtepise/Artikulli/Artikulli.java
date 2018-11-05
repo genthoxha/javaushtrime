@@ -4,24 +4,26 @@ package afate.allinone.detyrateshtepise.Artikulli;
 import java.util.Objects;
 
 public abstract class Artikulli {
-
-    private String barkodi;
+    private int barkodi; //readonly
     private String emertimi;
-    private int cmimi;
+    private double cmimi;
 
-    public Artikulli(String barkodi, String emertimi, int cmimi) throws ArtikulliException {
-        if (barkodi == null || barkodi.trim().isEmpty()) {
-            throw new ArtikulliException("Artikulli: Barkodi nuk duhet te jete null");
-        }
-        if (emertimi == null || emertimi.trim().isEmpty()) {
-            throw new ArtikulliException("Artikulli: Emertimi nuk duhet te jete null");
+    public Artikulli(int barkodi, String emertimi, double cmimi) throws BlerjaException{
+        if(barkodi <= 0){
+            throw new BlerjaException("Barkodi duhet te jete pozitiv");
         }
         this.barkodi = barkodi;
+        if(emertimi == null || emertimi.trim().isEmpty()){
+            throw new BlerjaException("Emertimi nuk duhet te jete i zbrazet");
+        }
         this.emertimi = emertimi;
+        if(cmimi <= 0){
+            throw new BlerjaException("Cmimi duhet te jete pozitiv");
+        }
         this.cmimi = cmimi;
     }
 
-    public String getBarkodi() {
+    public int getBarkodi() {
         return barkodi;
     }
 
@@ -29,31 +31,34 @@ public abstract class Artikulli {
         return emertimi;
     }
 
-    public int getCmimi() {
+    public double getCmimi() {
         return cmimi;
     }
 
-    public void setCmimi(int cmimi) {
+    public void setCmimi(int cmimi) throws BlerjaException{
+        if(cmimi <= 0){
+            throw new BlerjaException("Cmimi duhet te jete pozitiv");
+        }
         this.cmimi = cmimi;
-    }
-
-    public String toString() {
-        return barkodi + " - " + emertimi + " : " + cmimi;
     }
 
     public abstract boolean montohet();
 
     @Override
-    public boolean equals(Object o) {
-        if (o instanceof Artikulli) {
-            Artikulli a = (Artikulli) o;
-            return hashCode() == a.hashCode();
+    public String toString(){
+        return barkodi+"-"+emertimi+":"+cmimi;
+    }
+
+    @Override
+    public boolean equals(Object obj){
+        if(obj instanceof Artikulli){
+            return ((Artikulli)obj).getBarkodi() == barkodi;
         }
         return false;
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(cmimi);
-    }
+
+
+
 }
+
