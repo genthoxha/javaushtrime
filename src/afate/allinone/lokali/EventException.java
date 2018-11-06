@@ -1,4 +1,4 @@
-package afate.allinone.artikuli;
+package afate.allinone.lokali;
 
 public class EventException extends Exception {
 

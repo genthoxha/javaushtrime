@@ -52,7 +52,7 @@ public class BlackFriday {
 
     }
 
-    
+
 
     public void lexoArtikuj() throws BlerjaException{
         try(BufferedReader br = new BufferedReader(new FileReader("F:/gent/artikujt.txt"))){
