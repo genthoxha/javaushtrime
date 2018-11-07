@@ -85,4 +85,19 @@ public class Evenimenti implements LlojiPijeve {
     public void setLloji(Tipi.lloji lloji) {
         this.lloji = lloji;
     }
+
+    public void artikujt() {
+        for (int i = 0; i < lista.size(); i++) {
+            System.out.println(lista.get(i));
+        }
+    }
+
+    public String toString() {
+        StringBuilder s = null;
+        s = new StringBuilder();
+        for (Artikulli a : this.lista) {
+            s.append("Evenimenti: " + numri + " : " + lokali + " : Artikujt: [" + a.toString());
+        }
+        return s + "]";
+    }
 }

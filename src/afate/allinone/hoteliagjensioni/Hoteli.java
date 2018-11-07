@@ -1,16 +1,17 @@
 package afate.allinone.hoteliagjensioni;
 
 public class Hoteli {
+
     private String emri;
     private int kategoria;
     private boolean depo;
 
     public Hoteli(String emri, int kategoria, boolean depo) throws SkiException {
-        if (Util.isEmpty(emri)) {
-            throw new SkiException("Hoteli: Emri nuk duhet te jete i zbrazet!");
+        if (emri == null || emri.trim().equals("")) {
+            throw new SkiException("Hoteli: Emri i hotelit nuk duhet te jete null ose i zbrazet!");
         }
         if (kategoria < 1 || kategoria > 5) {
-            throw new SkiException("Hoteli: Kategoria duhet te jete ndermjet 1 dhe 5");
+            throw new SkiException("Hoteli: Kategoria e hotelit duhet te jete 1 ose 5!");
         }
         this.emri = emri;
         this.kategoria = kategoria;
@@ -21,7 +22,10 @@ public class Hoteli {
         return emri;
     }
 
-    public void setEmri(String emri) {
+    public void setEmri(String emri) throws SkiException {
+        if (emri == null || emri.trim().equals("")) {
+            throw new SkiException("Hoteli: Emri i hotelit nuk duhet te jete null ose i zbrazet!");
+        }
         this.emri = emri;
     }
 
@@ -29,7 +33,10 @@ public class Hoteli {
         return kategoria;
     }
 
-    public void setKategoria(int kategoria) {
+    public void setKategoria(int kategoria) throws SkiException {
+        if (kategoria < 1 || kategoria > 5) {
+            throw new SkiException("Hoteli: Kategoria e hotelit duhet te jete 1 ose 5!");
+        }
         this.kategoria = kategoria;
     }
 
@@ -42,13 +49,14 @@ public class Hoteli {
     }
 
     public String toString() {
-        return "Hoteli: " + emri + " : " + " Kategoria: " + kategoria + " : " + depo;
+        return "Hoteli: " + emri + " : kategoria: " + kategoria + " : " + (depo ? "ka depo " : "nuk ka depo");
     }
 
+    @Override
     public boolean equals(Object obj) {
         if (obj instanceof Hoteli) {
             Hoteli hoteli = (Hoteli) obj;
-            return emri.equals(hoteli.getEmri()) && kategoria == hoteli.getKategoria();
+            return emri.equals(hoteli.getEmri()) && kategoria == hoteli.getKategoria() && depo == hoteli.isDepo();
         }
         return false;
     }
