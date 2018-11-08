@@ -1,6 +1,9 @@
 package afate.allinone.hoteliagjensioni;
 
 
+import java.util.Arrays;
+import java.util.List;
+
 public interface LlojiUshqimit {
 
     enum Lloji {
@@ -36,6 +39,10 @@ public interface LlojiUshqimit {
         @Override
         public String toString() {
             return "Lloji: " + lloji + " ka cmimin: " + cmimi;
+        }
+
+        public List<Lloji> getAllValues() {
+            return Arrays.asList(values());
         }
 
 

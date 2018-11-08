@@ -11,6 +11,13 @@ public class Aranzhmani {
     private List<Servisi> listaESherbimeve;
     private List<LlojiUshqimit.Lloji> llojetEShujtave;
 
+    public int getIdentifikuesi() {
+        return identifikuesi;
+    }
+
+    public Hoteli getHoteli() {
+        return hoteli;
+    }
 
     public Aranzhmani(int identifikuesi, Hoteli hoteli, int kohezgjatja) throws SkiException {
         if (identifikuesi < 0) {
@@ -94,5 +101,10 @@ public class Aranzhmani {
             throw new SkiException("Aranzhmani: Servisi egziston");
         }
         listaESherbimeve.add(servisi);
+    }
+
+    @Override
+    public String toString() {
+        return "Aranzhmani: " + identifikuesi + " : " + cmimiAranzhmanit() + " : " + kohezgjatja;
     }
 }

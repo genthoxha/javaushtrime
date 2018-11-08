@@ -1,8 +1,6 @@
 package afate.allinone.hoteliagjensioni;
 
 public class Fjetja extends Servisi {
-
-
     private double ditet;
     private double cmimi;
 
