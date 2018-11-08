@@ -1,55 +1,35 @@
 package afate.allinone.hoteliagjensioni;
 
-public class Fjetja {
+public class Fjetja extends Servisi {
 
-    private int ditetEQendrimit;
+
+    private double ditet;
     private double cmimi;
 
-    public Fjetja(double cmimi, int ditetEQendrimit) throws SkiException {
-        if (ditetEQendrimit < 0) {
-            throw new SkiException("Fjetja: Ditet e qenrimit nuk duhet te kene vlere negative!");
+    public Fjetja(double cmimi,int ditet) throws SkiException {
+        super(cmimi*ditet);
+        if (ditet < 0) {
+            throw new SkiException("Fjetja: Ditet nuk mund te jene negativ!");
         }
-        if (cmimi < 0) {
-            throw new SkiException("Fjetja: Cmimi nuk duhet");
-        }
-        this.ditetEQendrimit = ditetEQendrimit;
-        this.cmimi = ditetEQendrimit * cmimi;
+        this.ditet = ditet;
+        this.cmimi = cmimi;
     }
 
-    public int getDitetEQendrimit() {
-        return ditetEQendrimit;
-    }
+//    @Override
+//    public double kalkuloCmimin() {
+//        return ditet * cmimi;
+//    }
 
-    public void setDitetEQendrimit(int ditetEQendrimit) {
-        this.ditetEQendrimit = ditetEQendrimit;
+    public double getDitet() {
+        return ditet;
     }
 
     public double getCmimi() {
         return cmimi;
     }
 
-    public void setCmimi(double cmimi) throws SkiException {
-        if (cmimi < 0) {
-            throw new SkiException("Fjetja: Cmimi nuk duhet");
-        }
-        this.cmimi = cmimi;
-    }
-
+    @Override
     public String toString() {
-        return "Fjetja per dite te qendrimit: " + ditetEQendrimit;
-    }
-
-    @Override
-    public int hashCode() {
-        return Integer.hashCode(ditetEQendrimit) + Double.hashCode(cmimi);
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (obj instanceof Fjetja) {
-            Fjetja f = (Fjetja) obj;
-            return f.ditetEQendrimit == ditetEQendrimit && cmimi == f.getCmimi();
-        }
-        return false;
+        return super.toString() + ", cmimi llogaritur ditet * cmimi = " + super.cmimi;
     }
 }
