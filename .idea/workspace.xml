@@ -1,153 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Ushqimi.java" line="8" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cddacdf3-6633-42a4-bc17-4f6281eed631" name="Default" comment="A lot of stuff">
-      <change afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/LlojiUshqimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Skipass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/IO/afate/FolderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Artikulli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Dekorimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Evenimenti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/EventException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/LlojiPijeve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Lokali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Pija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Planifikuesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Ushqimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/testinjo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaushtrime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaushtrime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Fjetja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Fjetja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Aranzhmani.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Aranzhmani.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Fjetja.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Fjetja.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Hoteli.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/Hoteli.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/LlojiUshqimit$Lloji.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/LlojiUshqimit$Lloji.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaushtrime/afate/allinone/hoteliagjensioni/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/42719570_143858439901203_1864853222007504896_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Hoteli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Hoteli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Servisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Servisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/llojiUshqimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="1.jpg" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/1.jpg">
-                <provider selected="true" editor-type-id="images" />
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1570494495">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="41" />
-          <entry key="jpg" value="6" />
+          <entry key="class" value="2" />
+          <entry key="java" value="115" />
+          <entry key="jpg" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="6" />
-          <entry key="JAVA" value="41" />
+          <entry key="CLASS" value="2" />
+          <entry key="Image" value="29" />
+          <entry key="JAVA" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6940" />
-          <entry key="txt" value="29" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="15980" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6940" />
-          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="JAVA" value="15980" />
+          <entry key="PLAIN_TEXT" value="45" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Skipass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Skipass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/IO/afate/FolderList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="372">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aranzhmani.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/DisciplinaEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1115#1116#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="592">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Agjencioni.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/Skijatori.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-468">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LlojiUshqimit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/LlojiUshqimit.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/BlackFriday.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1828">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/FisException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ushqimi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/Disciplina.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="140">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/CountFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/IO/NumeroFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-340">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/IO/ushtrime/TekstSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-142">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/afate/IO/ushtrime/TextRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-160">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -157,8 +197,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -168,7 +208,14 @@
       <find>cmi</find>
       <find>int</find>
       <find>sout</find>
+      <find>MINCMIMI</find>
+      <find>toString</find>
+      <find>sortimi</find>
+      <find>nrMy</find>
     </findStrings>
+    <replaceStrings>
+      <replace>MIN</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -187,9 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/afate/allinone/artikuli/Artikulli.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/pajisja/Pajisja.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/ArtikulliException.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Klasifikohet.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/ArtikulliException.java" />
@@ -220,15 +264,27 @@
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/testFile.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Currency.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Lloji.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Fjetja.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Skipass.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Servisi.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/DefinoUshqimin.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java" />
-        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Fjetja.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/enumStudenti.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/LlojiUshqimit.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java" />
         <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/EventException.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Lokali.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Ushqimi.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/LlojiPijeve.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Pija.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Artikulli.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Dekorimi.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Evenimenti.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/testinjo.java" />
+        <option value="$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Planifikuesi.java" />
+        <option value="$PROJECT_DIR$/src/afate/IO/afate/FolderList.java" />
       </list>
     </option>
   </component>
@@ -238,13 +294,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-15" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -254,46 +313,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaushtrime" type="462c0819:PsiDirectoryNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaushtrime" type="462c0819:PsiDirectoryNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaushtrime" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="afate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaushtrime" type="462c0819:PsiDirectoryNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="afate" type="462c0819:PsiDirectoryNode" />
-              <item name="allinone" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaushtrime" type="462c0819:PsiDirectoryNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="afate" type="462c0819:PsiDirectoryNode" />
               <item name="allinone" type="462c0819:PsiDirectoryNode" />
-              <item name="hoteliagjensioni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="afate" type="462c0819:PsiDirectoryNode" />
+              <item name="allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="detyrateshtepise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="afate" type="462c0819:PsiDirectoryNode" />
+              <item name="allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="detyrateshtepise" type="462c0819:PsiDirectoryNode" />
+              <item name="Artikulli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="afate" type="462c0819:PsiDirectoryNode" />
+              <item name="allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="lokali" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaushtrimeprovimi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="afate" type="462c0819:PsiDirectoryNode" />
+              <item name="allinone" type="462c0819:PsiDirectoryNode" />
+              <item name="Skijatori" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ushtrime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,15 +393,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\javaushtrimeprovimi\src\afate\allinone\hoteliagjensioni" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="afate.allinone.detyrateshtepise.Artikulli" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaushtrimeprovimi\src\afate\allinone\hoteliagjensioni" />
+      <recent name="D:\javaushtrimeprovimi\src\afate\allinone\evenimentiafati" />
       <recent name="D:\javaushtrimeprovimi\src\afate\allinone\lokali" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="afate.allinone.detyrateshtepise.Artikulli" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaushtrimeprovimi\src\afate\allinone\evenimentiafati" />
+      <recent name="D:\javaushtrimeprovimi\src\afate\allinone\hoteliagjensioni" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,21 +418,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestClass.testSmth">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="afate.allinone.hoteliagjensioni.Test" />
-      <module name="javaushtrime" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="afate.allinone.hoteliagjensioni.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.testinjo.methodToTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -354,20 +433,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="afate.allinone.hoteliagjensioni" />
       <option name="MAIN_CLASS_NAME" value="afate.allinone.hoteliagjensioni.TestClass" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestClass.testSmth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaushtrime" />
@@ -377,20 +449,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="afate.allinone.hoteliagjensioni" />
       <option name="MAIN_CLASS_NAME" value="afate.allinone.hoteliagjensioni.TestClass" />
       <option name="METHOD_NAME" value="testSmth" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Ushqimi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaushtrime" />
@@ -400,102 +467,78 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="afate.allinone.hoteliagjensioni" />
       <option name="MAIN_CLASS_NAME" value="afate.allinone.hoteliagjensioni.Ushqimi" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testinjo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaushtrime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="afate.allinone.hoteliagjensioni.*" />
+          <option name="PATTERN" value="afate.allinone.evenimentiafati.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="afate.allinone.hoteliagjensioni" />
-      <option name="MAIN_CLASS_NAME" value="afate.allinone.hoteliagjensioni.testFile" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="afate.allinone.evenimentiafati" />
+      <option name="MAIN_CLASS_NAME" value="afate.allinone.evenimentiafati.testinjo" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testinjo.methodToTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaushtrime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="afate.allinone.evenimentiafati.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="afate.allinone.evenimentiafati" />
+      <option name="MAIN_CLASS_NAME" value="afate.allinone.evenimentiafati.testinjo" />
+      <option name="METHOD_NAME" value="methodToTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.testFile" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="JUnit.Ushqimi" />
       <item itemvalue="JUnit.TestClass" />
       <item itemvalue="JUnit.TestClass.testSmth" />
+      <item itemvalue="JUnit.testinjo" />
+      <item itemvalue="JUnit.testinjo.methodToTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestClass.testSmth" />
+        <item itemvalue="JUnit.testinjo.methodToTest" />
         <item itemvalue="JUnit.TestClass" />
+        <item itemvalue="JUnit.testinjo" />
+        <item itemvalue="JUnit.TestClass.testSmth" />
         <item itemvalue="JUnit.Ushqimi" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="JUnit.testFile" />
       </list>
     </recent_temporary>
   </component>
@@ -515,6 +558,10 @@
       <workItem from="1541367647328" duration="5032000" />
       <workItem from="1541535668885" duration="10117000" />
       <workItem from="1541661597131" duration="24134000" />
+      <workItem from="1541704823591" duration="2818000" />
+      <workItem from="1541712182479" duration="5902000" />
+      <workItem from="1541847962740" duration="23915000" />
+      <workItem from="1541918038551" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1541113655184</created>
@@ -537,108 +584,114 @@
       <option name="project" value="LOCAL" />
       <updated>1541605531293</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Agjensioni">
+      <created>1541721039555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541721039555</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass - 2018.11.08 at 16h 15m 47s.xml">
-      <configuration name="TestClass" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 18m 59s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 16m 39s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 19m 33s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 18m 30s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 20m 09s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 35m 59s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 20m 22s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 36m 15s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 20m 30s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 36m 23s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 23m 03s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 36m 34s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 23m 41s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 37m 23s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 26m 05s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 37m 27s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 27m 46s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestClass_testSmth - 2018.11.08 at 16h 50m 45s.xml">
-      <configuration name="TestClass.testSmth" configurationId="JUnit" />
+    <history-entry file="testinjo_methodToTest - 2018.11.10 at 23h 28m 44s.xml">
+      <configuration name="testinjo.methodToTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67168000" />
+    <option name="totallyTimeSpent" value="104178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3299075" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32887974" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299075" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32980132" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21140939" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19042553" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32887974" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info id="Learn" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3299075" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Capture Tool" order="4" />
       <window_info id="Learn" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847682" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29933774" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32980132" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32980132" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32980132" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32980132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32847682" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847682" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29933774" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3299075" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32980132" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32847682" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="7" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,177 +704,266 @@
     <MESSAGE value="changes" />
     <MESSAGE value="detyrat e shtepise" />
     <MESSAGE value="A lot of stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="A lot of stuff" />
+    <MESSAGE value="Agjensioni" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agjensioni" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/artikuli/Util.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/artikuli/Ushqimi.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/artikuli/EventException.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/pajisja/Pajisja.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Skipass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="60">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/ArtikulliException.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/artikuli/Artikulli.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Klasifikohet.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/MjetiFluturues/MjetiFluturues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Tavolina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/ArtikulliException.java" />
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Dyqani.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Divani.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Klienti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/DVDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Klasifikohet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Artikulli.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/EventException.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/enumStudenti.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Util.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Servisi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12836.1979/ushtrime11/LibriException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/libri/LibriException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/libri/Libri.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/libri/Bibloteka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Tipi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="129">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2265#2266#0" expanded="true" />
+            <element signature="e#2311#2312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Hoteli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/2.jpg" />
     <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/EventException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Lokali.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Artikulli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Ushqimi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/LlojiPijeve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Dekorimi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Artikulli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2038">
+          <caret line="110" column="59" lean-forward="true" selection-start-line="110" selection-start-column="59" selection-end-line="110" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/LlojiUshqimit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/testinjo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Evenimenti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="52" column="139" selection-start-line="52" selection-start-column="139" selection-end-line="52" selection-end-column="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2490#2491#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Pija.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/Gara.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/evenimentiafati/Planifikuesi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/BlerjaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Divani.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Dyqani.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Tavolina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/Artikulli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Evenimenti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="100" column="23" lean-forward="true" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Dekorimi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/LlojiPijeve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Ushqimi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Pija.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -830,190 +972,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Lokali.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/testFile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Currency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Lloji.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Hoteli.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Planifikuesi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
+        <state relative-caret-position="-1200">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Tipi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/DeleteWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/FileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/DefinoUshqimin.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/NdryshoDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Artikulli.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/NumeroFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="-340">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/lokali/Evenimenti.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/ushtrime/TekstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        <state relative-caret-position="-142">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/SkiException.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/ushtrime/TextRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-160">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Servisi.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/IO/afate/FolderList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="372">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Fjetja.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/DisciplinaEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="592">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Ushqimi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Skipass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/LlojiUshqimit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/FisException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Agjencioni.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/Disciplina.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/afate/allinone/hoteliagjensioni/Aranzhmani.java">
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/CountFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/Skijatori/Skijatori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/afate/allinone/detyrateshtepise/Artikulli/BlackFriday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1828">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>

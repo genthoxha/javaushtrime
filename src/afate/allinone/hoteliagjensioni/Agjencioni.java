@@ -43,7 +43,7 @@ public class Agjencioni {
         }
 
         for (int i = 0; i < listaAranzhmaneve.size(); i++) {
-            if ( (MIN == null || MIN.cmimiAranzhmanit() < listaAranzhmaneve.get(i).cmimiAranzhmanit())
+            if ((MIN == null || MIN.cmimiAranzhmanit() < listaAranzhmaneve.get(i).cmimiAranzhmanit())
                     && MIN.getIdentifikuesi() < listaAranzhmaneve.get(i).getIdentifikuesi()) {
                 MIN = listaAranzhmaneve.get(i);
             }
@@ -55,23 +55,43 @@ public class Agjencioni {
         }
     }
 
-    public ArrayList<Aranzhmani> sortimi(String emri) {
-        ArrayList<Aranzhmani> tesortuara = new ArrayList<>();
+    public Iterator<Aranzhmani> sortimi(String emri) throws SkiException {
+        if (emri == null || emri.trim().isEmpty()) {
+            throw new SkiException("Emri nuk dhet te jete null");
+        }
+        ArrayList<Aranzhmani> equalsEmri = new ArrayList<>();
+        class lokale implements Iterator<Aranzhmani> {
 
-        for (Aranzhmani aranzhmani : listaAranzhmaneve) {
-            if (aranzhmani.getHoteli().getEmri().equals(emri)) {
-                tesortuara.add(aranzhmani);
+            private int index = 0;
+            public boolean hasNext() {
+                return index < listaAranzhmaneve.size();
+            }
+            public Aranzhmani next() {
+                if (index < listaAranzhmaneve.size()) {
+                    Aranzhmani a = listaAranzhmaneve.get(index++);
+                    if (a.getHoteli().getEmri().equals(emri)) {
+                        equalsEmri.add(a);
+                    }
+                    if (hasNext()){
+                        next();
+                    }
+                    return a;
+                }
+                return null;
             }
         }
-        Collections.sort(tesortuara, new Comparator<Aranzhmani>() {
-            @Override
-            public int compare(Aranzhmani o1, Aranzhmani o2) {
-                return o2.getIdentifikuesi() - o1.getIdentifikuesi();
-            }
-        });
-        return tesortuara;
 
+
+//        Collections.sort(equalsEmri, new Comparator<Aranzhmani>() {
+//            @Override
+//            public int compare(Aranzhmani o1, Aranzhmani o2) {
+//                return o2.getIdentifikuesi() - o1.getIdentifikuesi();
+//            }
+//        });
+
+
+
+        return new lokale();
     }
-
-
 }
+

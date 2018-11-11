@@ -24,7 +24,7 @@ public class Aranzhmani {
             throw new SkiException("Aranzhmani: Identifikuesi nuk duhet te jete negativ!");
         }
         if (hoteli == null) {
-            throw new SkiException("Aranzhmani: Hoteli nuk duhet te jete null");
+            throw new SkiException("Aranzhmani: Lokali nuk duhet te jete null");
         }
         if (!(kohezgjatja == 5 || kohezgjatja == 7 || kohezgjatja == 10)) {
             throw new SkiException("Aranzhmani: Kohezgjatja duhet te jete 5, 7 apo 10");
@@ -105,6 +105,12 @@ public class Aranzhmani {
 
     @Override
     public String toString() {
-        return "Aranzhmani: " + identifikuesi + " : " + cmimiAranzhmanit() + " : " + kohezgjatja;
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("Indentifikuesi i aranzhmanit: "+identifikuesi+" cmimi: "+cmimiAranzhmanit()+" kohezgjatja: "+kohezgjatja+" SERVISET: \n"+"[");
+        for (int i = 0; i < listaESherbimeve.size(); i++) {
+            sb.append(listaESherbimeve.get(i) + "\n");
+        }
+        return sb+"]";
     }
 }
